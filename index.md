@@ -31,4 +31,32 @@ This is a simple website to demonstrate the use of **GitHub Flavored Markdown**.
 `code` for print "Hello World":
 
 
+## adding Image
+
+Here's an image of the Octocat
+
+![Comment on a GitHub issue showing an image.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+## adding some special notes.
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
+
+
+
 
