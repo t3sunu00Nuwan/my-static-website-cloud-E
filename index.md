@@ -19,7 +19,7 @@ Welcome to my **GitHub Pages** website! This website is created using *Markdown*
 
 ## Introduction
 
-This is a simple website to demonstrate the use of **GitHub Flavored Markdown**. You will see various features like:
+This is a simple website to demonstrate the use of **GitHub Flavored Markdown**. here we can add various features like:
 - Headers and Text Formatting
 - Code Blocks
 - Links and Images
@@ -30,11 +30,5 @@ This is a simple website to demonstrate the use of **GitHub Flavored Markdown**.
 
 `code` for print "Hello World":
 
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        // Prints "Hello, World!" to the console
-        System.out.println("Hello, World!");
-    }
-}
+
 
